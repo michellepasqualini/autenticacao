@@ -1,2 +1,1 @@
-# repositorio_autenticacao
-Repositório de testes de autenticações.
+# Repositório de testes de autenticações
